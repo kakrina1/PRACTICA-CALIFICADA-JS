@@ -7,6 +7,5 @@ if (a >b && a > c) {
 } else if (b > a && b > c) {
     console.log("La variable mayor es b = " +b);
 } else {
-    c > a && c > b 
     console.log("La variable mayor es C = " +c);
 }
