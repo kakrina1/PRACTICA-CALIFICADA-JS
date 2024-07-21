@@ -13,9 +13,9 @@ let a3=parseFloat(prompt("Ingrese el ancho del paquete 3"));
 let al3=parseFloat(prompt("Ingrese el alto del paquete 3"));
 let v3=l3*a3*al3;
 
-if (v1>v2 & v1>v3){
+if (v1>v2 && v1>v3){
     console.log("El volumen del paquete 1 es el mayor");
-}else if(v2>v1 & v2>v3){
+}else if(v2>v1 && v2>v3){
     console.log("El volumen del paquete 2 es el mayor");
 }else{
     console.log("El volumen del paquete 3 es el mayor")
