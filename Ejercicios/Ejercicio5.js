@@ -17,4 +17,3 @@ let numD = 4140;
 
 let maxNum = Math.max(numA,numB,numC,numD)
 console.log(`metodo ""max"" El numero Mayor es: ${maxNum}`)
-.
